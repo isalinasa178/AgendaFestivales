@@ -7,6 +7,7 @@ import java.util.TreeSet;
 public class TestAgendaFestivales {
     
     /**
+     * inigo salinas
      * Código para probar la clase AgendaFestivales
      *
      */

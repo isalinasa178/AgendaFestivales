@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 
 /**
+ * inigo salinas
  * La clase contiene méodos estáticos que permiten
  * cargar la agenda de festivales leyendo los datos desde
  * un fichero

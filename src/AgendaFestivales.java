@@ -7,6 +7,7 @@ import java.util.TreeMap;
 
 
 /**
+ * Inigo salinas
  * Esta clase guarda una agenda con los festivales programados
  * en una serie de meses
  *
